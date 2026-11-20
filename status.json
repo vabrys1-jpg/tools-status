@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "LICENSE_ID": "me",
+  "blocked": ["me"],
+  "wipe": [],
+  "message": "This copy has been disabled by the owner."
+}
