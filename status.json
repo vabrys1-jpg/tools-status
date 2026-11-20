@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "LICENSE_ID": "me",
-  "blocked": ["me"],
+  "blocked": ["dmsaeedm"],
   "wipe": [],
   "message": "This copy has been disabled by the owner."
 }
